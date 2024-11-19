@@ -18,7 +18,7 @@
     "@types/react-dom": "^16.9.0",
     "@types/react-router-dom": "^5.1.5",
     "clsx": "^1.1.1",
-    "firebase": "^7.17.1",
+    "firebase": "^10.9.0",
     "mapbox-gl": "^1.11.1",
     "moment": "^2.27.0",
     "query-string": "^6.13.1",
